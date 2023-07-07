@@ -1,2 +1,2 @@
-public class Clone {
+public class clearClone {
 }
